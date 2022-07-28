@@ -1,6 +1,6 @@
 ---
 created: 2022-07-27T19:22:55-05:00
-modified: 2022-07-27T19:53:35-05:00
+modified: 2022-07-28T16:41:36-05:00
 type: Journal
 ---
 
@@ -14,7 +14,7 @@ Madeline Island is beautiful. My in laws go there every year. In the ~50 odd wee
 
 Last year while visiting I thought, how could I snake a PoE network cable 200' from the family cabin down to the cliff edge by the water to run our own camera? But there are challenges. 200' is a long way; a lot of digging. Then there's the simple reality that the cabin is only inhabitated for the warmer part of the year and the Internet gets shut down in winter. That would be less fun.
 
-Then I had a spark of an idea: digging through my parts box I found a Waveshare SIM800X GSM/GPRS hat. I looked around and realized that with enough hacking, this solution could run in any environment. Obviously subject to power & data limitations. But that's half the fun right?
+Then I had a spark of an idea: digging through my parts box I found a [Waveshare SIM800X GSM/GPRS hat](https://www.waveshare.com/wiki/SIM800C_GSM/GPRS_HAT) that I'd never found a use for. I looked around and realized that with enough hacking, this solution could run in any environment. Obviously subject to power & data limitations. But that's half the fun right?
 
 # Solar powered Raspberry Pi with LiPo battery and GSM/GPRS connectivity
 
