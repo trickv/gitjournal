@@ -1,6 +1,6 @@
 ---
 created: 2022-07-27T19:22:55-05:00
-modified: 2022-07-27T19:47:11-05:00
+modified: 2022-07-27T19:53:35-05:00
 type: Journal
 ---
 
@@ -24,3 +24,5 @@ Here's what I ended up building with:
 * Waveshare SIM800X hat
 * TP4056 charging module
 * Relay for turning the Waveshare board on/off to save power
+
+So then.
