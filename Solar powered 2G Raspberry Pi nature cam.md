@@ -1,6 +1,6 @@
 ---
 created: 2022-07-27T19:22:55-05:00
-modified: 2022-07-29T07:00:18-05:00
+modified: 2022-07-29T07:02:06-05:00
 type: Journal
 ---
 
@@ -33,3 +33,5 @@ Watch out for 700mA variety? TC4056A is 700mA instead of tp4056 1A
 
 
 This page explains difference between BAT and OUT circuits and boards without this difference like my first one: https://secondlifestorage.com/index.php?threads/variants-of-tp4056.511/
+
+Short article that taught me about LiPo charging voltages: https://circuit-diagramz.com/tp4056-schematic-micro-usb-battery-charger-circuit-diagram/amp/
