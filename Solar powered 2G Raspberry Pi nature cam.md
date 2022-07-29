@@ -1,6 +1,6 @@
 ---
 created: 2022-07-27T19:22:55-05:00
-modified: 2022-07-28T16:41:36-05:00
+modified: 2022-07-29T07:00:18-05:00
 type: Journal
 ---
 
@@ -26,3 +26,10 @@ Here's what I ended up building with:
 * Relay for turning the Waveshare board on/off to save power
 
 So then.
+
+# Nitty gritty on the TP4056
+
+Watch out for 700mA variety? TC4056A is 700mA instead of tp4056 1A
+
+
+This page explains difference between BAT and OUT circuits and boards without this difference like my first one: https://secondlifestorage.com/index.php?threads/variants-of-tp4056.511/
